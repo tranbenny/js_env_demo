@@ -1,5 +1,5 @@
 # js_env_demo
-
+#### Following along Pluralsight: Building a JavaScript Development Enviornment Course
 Components
 * .editorconfig: settings for ide editor 
 * Package Manager: npm
@@ -19,4 +19,12 @@ Components
 	* Assertion library: chai
 	* Helper library: jsdom, cheerio
 	* Test Runners: PhantomJS, JSDOM
-* Continuous Integration
+* Continuous Integration: TravisCI, Appveyor
+* Mock HTTP Calls
+	* JSON Schema Faker
+	* faker.js, chance.js, randexp.js
+* Http Calls:
+	* Browser: fetch
+	* Node: http, request
+	* Node and Browser: Axios
+* Error Logging. TrackJS
